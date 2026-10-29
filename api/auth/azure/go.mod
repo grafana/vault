@@ -1,6 +1,6 @@
 module github.com/hashicorp/vault/api/auth/azure
 
-go 1.24.0
+go 1.25.0
 
 require github.com/hashicorp/vault/api v1.22.0
 
@@ -21,6 +21,6 @@ require (
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/net v0.47.0 // indirect
-	golang.org/x/text v0.31.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
 )
