@@ -19,7 +19,7 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/veqryn/slog-context v0.8.0
 	github.com/zclconf/go-cty v1.17.0
-	golang.org/x/mod v0.29.0
+	golang.org/x/mod v0.40.0
 	golang.org/x/oauth2 v0.31.0
 )
 
