@@ -202,7 +202,7 @@
       "rollup": "2.80.0",
       "serialize-javascript": "3.1.0",
       "socket.io": "4.8.1",
-      "underscore": "1.13.7"
+      "underscore": "1.13.8"
     }
   },
   "engines": {
