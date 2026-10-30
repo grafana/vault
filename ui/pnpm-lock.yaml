@@ -1621,7 +1621,7 @@ packages:
     resolution: {integrity: sha512-nyLDApaZsAHpAf2sRNwYX1MnJQU9UI3euiwE6wHPl2l/+Yt8wba1oXkmWL/Ptc4QgJxxnRUUhf66jGcB/AIOyQ==}
 
   '@hashicorp/vault-client-typescript@https://codeload.github.com/hashicorp/vault-client-typescript/tar.gz/5f320eb200ed107202eb3932f66cc9efb693204e':
-    resolution: {tarball: https://codeload.github.com/hashicorp/vault-client-typescript/tar.gz/5f320eb200ed107202eb3932f66cc9efb693204e}
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/hashicorp/vault-client-typescript/tar.gz/5f320eb200ed107202eb3932f66cc9efb693204e}
     version: 0.0.0
 
   '@humanwhocodes/config-array@0.13.0':
@@ -2963,7 +2963,7 @@ packages:
     resolution: {integrity: sha512-toLD/v7ut2ajcH8JsdCMG2Bpq2qkwTcKM6CMzVMSAJjaz/KpK69fR+gSqe1dsjh+QTdxG0yVvkq3Sij/XMzV6A==}
 
   broccoli-sri-hash@https://codeload.github.com/meirish/broccoli-sri-hash/tar.gz/5ebad6f345c38d45461676c7a298a0b61be4a39d:
-    resolution: {tarball: https://codeload.github.com/meirish/broccoli-sri-hash/tar.gz/5ebad6f345c38d45461676c7a298a0b61be4a39d}
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/meirish/broccoli-sri-hash/tar.gz/5ebad6f345c38d45461676c7a298a0b61be4a39d}
     version: 2.1.2
 
   broccoli-stew@3.0.0:
@@ -4156,7 +4156,7 @@ packages:
     engines: {node: '>= 10.*'}
 
   ember-cli-sri@https://codeload.github.com/meirish/ember-cli-sri/tar.gz/1c0ff776a61f09121d1ea69ce16e4653da5e1efa:
-    resolution: {tarball: https://codeload.github.com/meirish/ember-cli-sri/tar.gz/1c0ff776a61f09121d1ea69ce16e4653da5e1efa}
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/meirish/ember-cli-sri/tar.gz/1c0ff776a61f09121d1ea69ce16e4653da5e1efa}
     version: 2.1.0
     engines: {node: '>= 0.10.0'}
 
@@ -4372,7 +4372,7 @@ packages:
     engines: {node: 8.* || 10.* || >= 12}
 
   ember-service-worker@https://codeload.github.com/meirish/ember-service-worker/tar.gz/dda14187aace0d73ecdb6a55beac2194a3aec01b:
-    resolution: {tarball: https://codeload.github.com/meirish/ember-service-worker/tar.gz/dda14187aace0d73ecdb6a55beac2194a3aec01b}
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/meirish/ember-service-worker/tar.gz/dda14187aace0d73ecdb6a55beac2194a3aec01b}
     version: 9.0.1
     engines: {node: 10.* || >= 12}
 
